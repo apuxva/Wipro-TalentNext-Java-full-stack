@@ -1,0 +1,3 @@
+blue : 2
+red : 3
+yellow : 2
